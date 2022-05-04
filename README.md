@@ -7,9 +7,9 @@ Veri Yapıları ve Algoritmalar proje ödevi 3
 Root:7
 
 ```
-               7
-            5     8  
-         1    6      9
-       0    3
-          2   4
+                 7
+              5     8  
+           1    6      9
+         0    3
+            2   4
 ```
